@@ -3,7 +3,7 @@ Sample Portions of Code from a Roguelike I was building in Unity.
 This is not the whole project, just some of the files.
 
 The goal for the project was to learn how to use Unity for the first time.
-I decided to try creating a 2D sprite based game with combat similar to The Legend of Zelda: Link to the Past.  I also wanted to expriment with generating a roguelike dungeon.
+I decided to try creating a 2D sprite based game with combat similar to The Legend of Zelda: Link to the Past.  I also wanted to experiment with generating a roguelike dungeon.
 
 
 1. When the game begins, roll some settings for the dungeon (things like # of rooms, bosses, etc)
