@@ -288,7 +288,7 @@ public class Monster_Shade : Pathfinding_NavnodeAgent
     /// </summary>
     void Navigation()
     {
-        //OK, time for real pathfinding...done with that gauntlet shit
+        //OK, time for real pathfinding...
         //Step 1: Check to see if the player is in the shade's room
         //The player should always know which room he's in...
         //Every shade needs to know which room it's in also
